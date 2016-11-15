@@ -1,0 +1,19 @@
+{
+  "banana": {
+    "color": "yellow",
+    "status": "ripe",
+    "amount": [6, 3, 1, 19, 2]
+  },
+
+  "apple": {
+    "color": "red",
+    "status": "rotten",
+    "amount": [4, 2, 11, 9, 1]
+  },
+
+  "kiwi": {
+    "color": "green",
+    "status": "rotten",
+    "amount": [41, 32, 21, 49, 22]
+  }
+}
